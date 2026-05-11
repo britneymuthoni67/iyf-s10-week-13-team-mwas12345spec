@@ -41,7 +41,7 @@
 - Set up React Router
 - Fixed accessibility issues
 
-### Team Member 5
+### Britney Muthoni 
 - Created navigation menu
 - Set up React Router
 - Fixed accessibility issues

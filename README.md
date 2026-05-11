@@ -10,7 +10,7 @@
 | Ethen Mutiso  | [@kaduskotoxic-driod](https://github.com/kaduskotoxic-driod) | Developer | Footer, Forms, Styling |
 | JOE MAINA     | [@sleepyhallow254](https://github.com/SLEEPYHALLOW254) | Developer | Navigation, Routing |
 | Denzel Anyiko | [@denzelanyiko3-source](https://github.com/denzelanyiko3-source) | Developer | Navigation, Routing |
-| Team Member 5 | [@teammate3](https://github.com/teammate3) | Developer | Navigation, Routing |
+| Britney Muthoni| [@britneymuthoni67](https://github.com/britneymuthoni67) | Developer | Navigation, Routing |
 | Team Member 6 | [@teammate3](https://github.com/teammate3) | Developer | Navigation, Routing |
 | Team Member 7 | [@teammate3](https://github.com/teammate3) | Developer | Navigation, Routing |
 | Team Member 8 | [@teammate3](https://github.com/teammate3) | Developer | Navigation, Routing |
